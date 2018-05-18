@@ -11,3 +11,10 @@ I have only tested scraping by user id and keywords.
 * tweepy
 * json
 * sqlite3
+
+*Run dataclean to export scrapped data into csv*
+
+## Clean ##
+
+- Url
+- Emoji/Symbol
