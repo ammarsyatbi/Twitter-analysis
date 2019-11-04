@@ -1,2 +1,5 @@
 .env
 data/tweets_processed.csv
+data/*.h5
+data/*.pkl
+data/*.w2v
