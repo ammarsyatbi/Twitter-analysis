@@ -1,4 +1,4 @@
-# twitter-scrap #
+# Twitter Scraper
 
 Twitter scrapping using tweepy API
 
@@ -6,7 +6,7 @@ I have only tested scraping by user id and keywords.
 
 *Reminder: please use your own access token* 
 
-## Library used ##
+### Library 
 
 * tweepy
 * json
@@ -14,7 +14,23 @@ I have only tested scraping by user id and keywords.
 
 *Run dataclean to export scrapped data into csv*
 
-## Clean ##
+### Clean
 
 - Url
 - Emoji/Symbol
+
+# Twitter Sentiment Analysis
+
+Dataset taken from https://www.kaggle.com/kazanova/sentiment140
+### Library 
+- Keras
+- Scikit Learn
+- Gensim
+- Matplotlib + Seaborn
+
+### Data Embedding
+- Word2Vec
+
+### Model compared
+- LSTM
+- GRU
